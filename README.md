@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**TomTom909/TomTom909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Thomas Holland
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| XXX | XXX |
+| XXX | XXX |
+| XXX | XXX |
+| XXX | XXX |
+| XXX | XXX |
+| XXX | XXX |
+
+THERE MUST BE A PROFILE HERE
